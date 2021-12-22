@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning topics related to front-end web development and web design, mainly focusing on the Angular as framework.
 
-- 🔭 I’m currently working on a logistics project for Compra Gamer and Mindhub BootCamp. (Soon to be uploaded on my GitHub :muscle: )
+- 🔭 I’m currently working on a logistics project for Compra Gamer and Mindhub BootCamp. Soon to be uploaded on my GitHub :muscle: 
 
 ### Find me around the web: 
 [My Linkedin](https://www.linkedin.com/in/franco-osores/):point_left:
