@@ -2,6 +2,7 @@
 
 ## Hi There! My name is Franco 👋
 #### I'm an Argentinian Jr Developer
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filburt88)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning topics related to front-end web development and web design, mainly focusing on Angular as framework.
 
